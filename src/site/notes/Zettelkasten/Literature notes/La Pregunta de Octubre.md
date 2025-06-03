@@ -43,7 +43,7 @@ Lo principal es:
 	-  Estamento popular
 	- Marca generacional
 El autor propone tesis:
- 1. Octubre es la expresión de la [[Zettelkasten/Output notes/Crisis del cotidiano neoliberal\|Crisis del cotidiano neoliberal]]
+ 1. Octubre es la expresión de la [[Output notes/Crisis del cotidiano neoliberal\|Output notes/Crisis del cotidiano neoliberal]]
  2. Octubre reúne las protestas, pero no nace de un sector hegemónico en específico
  3. Octubre es la expresión de la repulsión de la vida cotidiana, no la expresión de la vida deseada
  4. Octubre es la expresión de la masa popular, que se creía extinta. No nace sin embargo en la cohesión de esta masa, sino en el encuentro con la individualidad colectiva. Como el modelo neoliberal siempre se trato de que la acción colectiva fuera impensable, los individuos no representados, inspirados por sus propios objetivos se organizaron en masa. La explosión se da, el tema es si aparecen los directos involucrados o no
