@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/LITERATURE MOC/Literature MOC/","tags":["gardenEntry"],"noteIcon":"","created":"2025-06-01T15:30:22.876-04:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/LITERATURE MOC/Literature MOC/","noteIcon":"","created":"2025-06-01T15:30:22.876-04:00"}
 ---
 
 
