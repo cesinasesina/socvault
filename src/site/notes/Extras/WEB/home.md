@@ -5,9 +5,12 @@
 
 # 📚 Índice de Notas Publicadas
 
-## 🗂 Literature Notes
+	## 🗂 Literature Notes
 
-```dataview
-list from "zettelkasten/literature notes"
+```
+dataview
+table from "Zettelkasten/Output notes"
 where contains(file.frontmatter.dg-publish, true)
 sort file.name asc
+```
+
